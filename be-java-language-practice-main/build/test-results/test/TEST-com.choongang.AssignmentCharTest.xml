@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.AssignmentCharTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-15T09:58:23" hostname="BOOK-LCCUUB9T5H" time="0.037">
+  <properties/>
+  <testcase name="蹂��닔 course�뿉 臾몄옄 'A'瑜� �븷�떦�븯�꽭�슂" classname="com.choongang.AssignmentCharTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
